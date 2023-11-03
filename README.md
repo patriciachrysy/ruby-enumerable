@@ -56,7 +56,7 @@
 
 **To get a local copy up and running, follow these steps.**
 
-1. Download or clone this [repostory](https://github.com/Al-Amin-Khan-Shakil/decode-message).
+1. Download or clone this [repostory](https://github.com/patriciachrysy/ruby-enumerable).
 2. Provide a modern web browser.
 
 ### Prerequisites
@@ -73,13 +73,13 @@
 
 ### Setup
 
-- Clone this [repository](https://github.com/Al-Amin-Khan-Shakil/decode-message) to your desired folder:
+- Clone this [repository](https://github.com/patriciachrysy/ruby-enumerable) to your desired folder:
 
 - Example commands:
 
 ```sh
   cd [YOUR FOLDER]
-  git clone https://github.com/Al-Amin-Khan-Shakil/decode-message
+  git clone https://github.com/patriciachrysy/ruby-enumerable
 ```
 
 ### Usage
@@ -88,7 +88,7 @@
 
 ```sh
  cd [YOUR FOLDER]
- git clone https://github.com/Al-Amin-Khan-Shakil/decode-message
+ git clone https://github.com/patriciachrysy/ruby-enumerable
 ```
 
 ### Deployment
@@ -130,7 +130,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Al-Amin-Khan-Shakil/decode-message/issues).
+Feel free to check the [issues page](https://github.com/patriciachrysy/ruby-enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +138,7 @@ Feel free to check the [issues page](https://github.com/Al-Amin-Khan-Shakil/deco
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/Al-Amin-Khan-Shakil/decode-message);
+If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/patriciachrysy/ruby-enumerable);
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
