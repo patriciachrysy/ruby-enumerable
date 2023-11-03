@@ -11,4 +11,10 @@ module MyEnumerable
     each { |elt| return true if yield elt }
     false
   end
+
+  def filter?
+    array = []
+    each { |i| array.push(i) if yield i }
+    array
+  end
 end
